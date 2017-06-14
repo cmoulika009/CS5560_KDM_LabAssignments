@@ -21,4 +21,4 @@ The tasks performed as part of this tutorial are:
 
 <b>Source Code:</b> https://github.com/cmoulika009/CS5560_Knowledge_Discov_Mgmt_Assignments/tree/master/Tutorial-1-IntelliJ%2CPyCharm%2CGitHub%2CZenHub-CoreNLP/Tutorial-1B-CoreNLP
 
-<b>Wiki Link:</b> 
+<b>Wiki Link:</b> https://github.com/cmoulika009/CS5560_Knowledge_Discov_Mgmt_Assignments/wiki/Assignment-1B:-CoreNLP
